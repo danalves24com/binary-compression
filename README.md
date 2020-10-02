@@ -1,5 +1,5 @@
 # binary-compression
-
+This compression works on the basis of analyzing all 1's and marking their location relative to the previous, by doing this I have achieved of an average compression of 60%.
 ## Core Algorithms 
 # 1
         for bitIndex in range(len(self.joined)):
